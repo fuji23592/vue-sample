@@ -1,10 +1,9 @@
-# vue-project
+# InfraAcademy jenkis入門講座用リポジトリ
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+このリポジトリはInfraAcademyのJenkins入門講座用のリポジトリです。
+Vue.jsのサンプルをJenkinsを使ってビルド、テスト、リリースを自動化します。
+詳しくはこちら。
+[InfraAcademy](https://engineer-ninaritai.com/infraacademy/)
 
 ## Customize configuration
 
